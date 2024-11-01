@@ -1,0 +1,90 @@
+{
+	"version": "2",
+	"author": "yasenfire",
+	"authorURL": "https://github.com/yasenfire",
+	"supportURL": "",
+	"mods": [
+		{
+			"type": "mod",
+			"version": "0.4.1",
+			"name": "CoolHome",
+			"displayName": "",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2024-11-01",
+			"updated": "2024-11-01",
+			"downloadURL": "https://github.com/yasenfire/CoolHome/releases/download/v0.4.1/CoolHome.zip",
+			"modURL": "https://github.com/yasenfire/CoolHome",
+			"description": "No safe places anymore. This mod removes any temperature bonus to shelters. Use fires, torches, flares and other sources of heat. Properly heated shelters will stay warm for some time even without fires.",
+			"tags": "",
+			"categories": [
+				"Gameplay",
+				"Overhaul"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [
+				"ModSettings",
+				"ModData"
+			],
+			"status": {
+				"working": true,
+				"beta": true,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.32",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": false,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "0.7.1",
+			"name": "DrawFromDrawer",
+			"displayName": "",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2024-11-01",
+			"updated": "2024-01-04",
+			"downloadURL": "https://github.com/yasenfire/DrawFromDrawer/releases/download/v0.7.1/DrawFromDrawer.dll",
+			"modURL": "https://github.com/yasenfire/DrawFromDrawer",
+			"description": "This mod allows you to craft on workbenches using contents of its drawer. Works with ammo benches too.",
+			"tags": "",
+			"categories": [
+				"Quality of Life"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.32",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": false,
+				"downloads": []
+			},
+			"aliases": []
+		}
+	]
+}
