@@ -6,14 +6,14 @@
 	"mods": [
 		{
 			"type": "mod",
-			"version": "0.4.2",
+			"version": "0.4.3",
 			"name": "CoolHome",
 			"displayName": "",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2024-11-01",
-			"updated": "2024-11-04",
-			"downloadURL": "https://github.com/yasenfire/CoolHome/releases/download/v0.4.2/CoolHome.zip",
+			"updated": "2024-12-15",
+			"downloadURL": "https://github.com/yasenfire/CoolHome/releases/download/v0.4.3/CoolHome.zip",
 			"modURL": "https://github.com/yasenfire/CoolHome",
 			"description": "No safe places anymore. This mod removes any temperature bonus to shelters. Use fires, torches, flares and other sources of heat. Properly heated shelters will stay warm for some time even without fires.",
 			"tags": "",
